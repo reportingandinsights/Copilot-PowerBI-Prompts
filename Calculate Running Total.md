@@ -2,7 +2,7 @@
 title: Calculate Running Total
 description: “Generate a DAX calculated column for a running total by date”
 tags: [data‑modeling, dax]
-version: 1.2
+version: 1.0
 ---
 
 **Input Variables**  
