@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Month To Date Measure
 description: “Create a DAX measure for month‑to‑date aggregation”
