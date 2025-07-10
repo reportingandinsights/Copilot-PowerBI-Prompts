@@ -19,5 +19,5 @@ version: 1.0
 ```bash
 copilot invoke --prompt-file prompts/data-modeling/calculated_columns.md \
                --var table_name="Giving" \
-               --var date_column="Date" \
-               --var value_column="Revenue"
+               --var date_column="Payment Date" \
+               --var value_column="Giving Amount"
