@@ -1,4 +1,6 @@
-# Repo of Engineered Prompts for Copilot in a Fabric environment focusing on Power BI and Fabric Notebook usage. 
+# Repo of Engineered Prompts for Copilot in a Fabric environment focusing on Power BI usage. 
+<img width="2502" height="268" alt="Copilot" src="https://github.com/user-attachments/assets/d0784faa-dc7f-45c9-9742-af7a4b300874" />
+<img width="1244" height="1386" alt="Prompt Input" src="https://github.com/user-attachments/assets/7e676b95-e738-408b-962c-572888831d78" />
 
 # All prompts are stored in markdown files like the following and are named according to their intended tasks that the prompts will address. 
 
