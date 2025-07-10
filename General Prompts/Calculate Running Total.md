@@ -18,6 +18,6 @@ version: 1.0
 **Example Usage**  
 ```bash
 copilot invoke --prompt-file prompts/data-modeling/calculated_columns.md \
-               --var table_name="Giving" \
+               --var table_name="Giving Table" \
                --var date_column="Payment Date" \
                --var value_column="Giving Amount"
